@@ -8,14 +8,11 @@
 
 - 🎓 **Final-year Software Engineering Student** @ IPB University (GPA 3.56/4.00)  
 - 🖥️ **Current focus:**  
-  - Revamping **Otsuka Ilmu LMS** (Angular · Node.js · Prisma · PostgreSQL) – cut manual HRD reporting time by 60%:contentReference[oaicite:1]{index=1}  
-  - Building **BHS Gym App** (Flutter · Express.js · MySQL) – boosted facility efficiency 40%:contentReference[oaicite:2]{index=2}  
-- 🚀 **Capstone:** *KunjungIn* Android app (Bangkit Academy, 916 hrs learning path)  
-- 🏆 **Leadership:** Coordinator Minister of Student Welfare Affairs, BEM KM IPB – programs impacting 4 000+ students:contentReference[oaicite:3]{index=3}  
+  - Revamping **Otsuka Ilmu LMS** (Angular · Node.js · Prisma · PostgreSQL) – cut manual HRD reporting time by 60%
+  - Building **BHS Gym App** (Flutter · Express.js · MySQL) – boosted facility efficiency 40%
+- 🏆 **Leadership:** Coordinator Minister of Student Welfare Affairs, BEM KM IPB – programs impacting 4 000+ students
 - 🗣️ Loves turning tech stories into 60-minute keynotes & content for **Mimpi Esok Hari**  
-- 🏃‍♂️ Ritual: 12 500 steps/day, bangun 03.00, olahraga = ibadah  
 - ✉️ **muhammadrenaldisaputra@gmail.com** • 📞 0896 6998 6114  
-- 💬 Pronouns: **he/him**
 
 ---
 
@@ -52,5 +49,4 @@
 </p>
 
 > *“Hidup yang tidak pernah dipertaruhkan, tidak akan dimenangkan.”*  
-> **Mari hancurkan tembok dan kejar mimpi.**
 

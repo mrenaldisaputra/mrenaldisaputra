@@ -14,7 +14,6 @@
 <p align="center">
 Final-year Software Engineering student at <b>IPB University</b>, passionate about building impactful software & user experiences.<br>
   <ul>
-    <li>🎓 <b>GPA:</b> 3.56/4.00</li>
     <li>💻 <b>Main projects:</b>
       <ul>
         <li>Otsuka Ilmu LMS (Angular, Node.js, Prisma, PostgreSQL)</li>

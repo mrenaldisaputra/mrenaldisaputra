@@ -1,26 +1,33 @@
-
-<h1 align="center">Hi there 👋, I'm <strong>Muhammad Renaldi Saputra</strong> (Rey)</h1>
+<h1 align="center">Hi there 👋, I'm Muhammad Renaldi Saputra (Rey)</h1>
 
 <p align="center">
-  <em>Full-Stack & Mobile Developer ⚡ | UI/UX & Product Enthusiast 🎨 <br>
-  Student Leader 🤝 | Community Builder 🌱</em>
+  <i>
+    Full-Stack & Mobile Developer ⚡ | UI/UX & Product Enthusiast 🎨 <br>
+    Student Leader 🤝 | Community Builder 🌱
+  </i>
 </p>
 
----
+<hr>
 
-## 🚀 About Me
+### 🚀 About Me
 
 <p align="center">
 Final-year Software Engineering student at <b>IPB University</b>, passionate about building impactful software & user experiences.<br>
-• 🎓 GPA: <b>3.56/4.00</b><br>
-• 💻 Main projects:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;— <b>Otsuka Ilmu LMS</b> (Angular, Node.js, Prisma, PostgreSQL)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;— <b>BHS Gym App</b> (Flutter, Express.js, MySQL)<br>
+  <ul>
+    <li>🎓 <b>GPA:</b> 3.56/4.00</li>
+    <li>💻 <b>Main projects:</b>
+      <ul>
+        <li>Otsuka Ilmu LMS (Angular, Node.js, Prisma, PostgreSQL)</li>
+        <li>BHS Gym App (Flutter, Express.js, MySQL)</li>
+      </ul>
+    </li>
+  </ul>
+  <i>"I love turning ideas into real solutions & meaningful content."</i>
 </p>
 
----
+<hr>
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="center">
   <!-- Programming Languages & Frameworks -->
@@ -51,18 +58,18 @@ Final-year Software Engineering student at <b>IPB University</b>, passionate abo
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman"/>
 </p>
 
----
+<hr>
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrenaldisaputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrenaldisaputra&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
----
+<hr>
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadrenaldisaputra-8a7882148"><img width="32px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" alt="LinkedIn"/></a>

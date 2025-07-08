@@ -3,7 +3,6 @@
 <p align="center">
   <i>
     Full-Stack & Mobile Developer ⚡ | UI/UX & Product Enthusiast 🎨 <br>
-    Student Leader 🤝 | Community Builder 🌱
   </i>
 </p>
 

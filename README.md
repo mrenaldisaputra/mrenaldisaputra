@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>
-    Full-Stack & Mobile Developer ⚡ | UI/UX & Product Enthusiast 🎨 <br>
+    Full-Stack Web Mobile Developer  <br>
   </i>
 </p>
 

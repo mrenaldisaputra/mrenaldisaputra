@@ -59,13 +59,12 @@ Final-year Software Engineering student at <b>IPB University</b>, passionate abo
 <hr>
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrenaldisaputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrenaldisaputra&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrenaldisaputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=100"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrenaldisaputra&layout=compact&langs_count=8&theme=algolia&cache_seconds=100"/>
 </p>
 
-<hr>
+
 
 ### 🌐 Connect with Me
 
